@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Axel Nilsson | Junior Software Developer</title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+
+    <body>
+        <header>
+            <nav>
+                <a href="index.html">Axel Nilsson</a>
+
+                <div>
+                    <a href="projects.html">Projects</a>
+                    <a href="about.html">About</a>
+                </div>
+            </nav>
+        </header>
+
+        <main>
+            <section class="hero">
+                <h1>Axel Nilsson</h1>
+                <h2>Junior Software Developer</h2>
+
+                <p>C# & C++ | Game Development</p>
+
+                <p>
+                    Programmer with three years of university-level study
+                    in Game Development at Malmö University.
+                </p>
+
+                <a href="projects.html">View my projects</a>
+            </section>
+        </main>
+    </body>
+</html>
