@@ -11,14 +11,33 @@ nav {
     display: flex;
     justify-content: space-between;
     padding: 20px;
+    gap: 30px;
 }
 
 nav a {
     text-decoration: none;
 }
 
-.hero {
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.home {
     max-width: 900px;
     margin: 100px auto;
+    margin-bottom: 0px;
+    padding: 20px;
+}
+
+.contact {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+.about {
+    max-width: 900px;
+    margin: auto;
     padding: 20px;
 }
