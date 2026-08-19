@@ -33,5 +33,27 @@ header {
 .mid-page {
     max-width: 900px;
     margin: auto;
+    margin-bottom: 0px;
+    padding: 20px;
+}
+
+.lower-page {
+    max-width: 900px;
+    margin: auto;
+    margin-bottom: 0px;
+    padding: 20px;
+}
+
+.education {
+    max-width: 900px;
+    margin: auto;
+    margin-bottom: 0px;
+    padding: 20px;
+}
+
+footer {
+    justify-content: center;
+    text-align: left;
+    margin: auto;
     padding: 20px;
 }
